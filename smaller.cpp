@@ -13,6 +13,7 @@ using namespace std;
 int main()
 {
     int firstnum, secondnum;
+    //declared two integers as variables for user input
     cout << "Input first number: " << endl;
     cin >> firstnum;
     cout << "Input second number: " << endl;
